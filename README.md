@@ -1,5 +1,10 @@
 # Progressive Web Apps
 
+## Quien lo creo ##
+
+Además de Google, otras organizaciones como Mozilla, Microsoft y Apple han contribuido al desarrollo y la adopción de las PWAs. Cada una de estas compañías ha implementado soporte para PWAs en sus respectivos navegadores web.Basicamente han sido creadas por una evolucion de todos los navegadores y de la tecnologia.
+
+
 ## ¿Que es una progressive web app? ##
 
 En español "Aplicación Web Progresiva", es un tipo de aplicación web que nos permite tener trabajo sin conexión, tambien tiene un acceso a través del navegador, nos permite tambien la instalación en pantalla de inicio, contienen Notificaciones push y ctualizaciones automáticas nos birnda una buena seguridad.
