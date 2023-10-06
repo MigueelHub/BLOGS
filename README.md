@@ -1,4 +1,4 @@
-# BLOGS
+# Progressive Web Apps
 
 ## ¿Que es una progressive web app? ##
 
